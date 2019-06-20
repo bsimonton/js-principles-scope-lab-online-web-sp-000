@@ -2,4 +2,8 @@
 
 myVar = customerName = "bob";
 
-function 
+function upperCaseCustomerName(){
+  
+  
+  
+}
