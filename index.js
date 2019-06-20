@@ -1,2 +1,2 @@
 // Write your solution in this file!
-myVar = customerName = "bob"
+myVar = customerName === "bob";
