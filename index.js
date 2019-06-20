@@ -30,8 +30,11 @@ function overwriteBestCustomer(){
   
 }
 
+
+const leastFavoriteCustomer = "bob"
+
 function changeLeastFavoriteCustomer() {
   
-  const myVar = leastFavoriteCustomer = "customer";
+  leastFavoriteCustomer = "jim";
   
-};
+}
