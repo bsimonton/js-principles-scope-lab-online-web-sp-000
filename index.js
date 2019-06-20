@@ -2,3 +2,4 @@
 
 myVar = customerName = "bob";
 
+function 
