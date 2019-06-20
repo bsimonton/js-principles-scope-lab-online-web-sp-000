@@ -30,8 +30,8 @@ function overwriteBestCustomer(){
   
 }
 
-function changeLeastFavoriteCustomer(){
+function changeLeastFavoriteCustomer() {
   
-leastFavoriteCustomer = "customer";
+  leastFavoriteCustomer = "customer";
   
-}
+};
